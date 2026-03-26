@@ -1,6 +1,6 @@
 # Operación Blut (Software Educativo) 🌍
 
-> **Nota:** Este proyecto fue seleccionado como uno de **los mejor trabajo del II cuatrimestre 2025** en el curso de Desarrollo de Software en Educación.
+> **Nota:** Este proyecto fue seleccionado como uno de **los mejor trabajo del II cuatrimestre 2025** en el curso de Desarrollo de Software en Informática Educación de la Universidad Estatal a Distancia.
 
 ## 📝 Descripción
 Software interactivo diseñado para estudiantes de décimo año de Educación Diversificada. El recurso se enmarca en la asignatura de **Estudios Sociales**, siguiendo los lineamientos del **Ministerio de Educación Pública (MEP)** para el tema de la Segunda Guerra Mundial.

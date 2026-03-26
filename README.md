@@ -13,3 +13,6 @@ Software interactivo diseñado para estudiantes de décimo año de Educación Di
 ## 🛠️ Especificaciones
 * **Plataforma:** Scratch.
 * **Área:** Informática Educativa / EdTech.
+
+## 🎮 Probar el proyecto
+Puedes ver y probar el software educativo directamente en Scratch haciendo clic aquí: https://scratch.mit.edu/projects/1201658614 
